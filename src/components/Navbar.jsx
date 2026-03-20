@@ -18,7 +18,7 @@ export default function Navbar() {
                     {/* Logo */}
                     <div className="flex items-center">
                         <img 
-                        src="/Logo.png"
+                        src="./public/Logo.png"
                         alt="Weblio"
                         className="h-20 w-20 absolute left-7 top-[-1]" 
                         />
