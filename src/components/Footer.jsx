@@ -8,7 +8,6 @@ export default function Footer() {
                 
                 {/* Logo */}
                 <div className="flex items-center gap-3">
-                    <img src="/public/Logo.png" alt="WebLio Logo" className="h-20 w-20" />
                     <p className="hidden lg:block text-xs font-bold text-gray-400">
                         Transform your workflow with AI-powered tools and automation.<br />
                         Built for modern teams.
